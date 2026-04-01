@@ -1,5 +1,3 @@
-# Evaluating-Clustering-Before-and-After-PCA
-
 # Evaluating Clustering Performance: Before and After PCA
 
 ## Project Description
